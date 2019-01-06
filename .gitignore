@@ -1,0 +1,9 @@
+*.aux
+*.dvi
+*.log
+*.pdf
+*.synctex.gz
+*.ps
+*.ent
+*.out
+lsc-2019-platform.html
