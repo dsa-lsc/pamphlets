@@ -744,18 +744,959 @@ D. National HGO Committee
 
 <details>
 <summary>Justification</summary>
+Whereas our socialist vision for the future includes the abolition of police and prisons as well as the dismantling of the carceral state, as stated in Resolution 3 of the 2017 National Convention; and
+
+Whereas in place of incarceration, restorative justice [“RJ”] must be adopted to better address harm within a community. Schools and communities that adopt restorative justice models experience closer relationships, stronger feelings of fair treatment during harm reparation processes, greater feelings of safety, and a reduced likelihood to repeat harm; and
+
+Whereas it is imperative that socialists who advocate for a restorative society model positive restorative practices [“RP”] within their own organizing communities; and
+
+Whereas a general lack of education surrounding restorative justice within DSA has led to a misuse of the concept in both good and bad faith by DSA chapters and perpetrators of harm, often at the expense of victims and relationships within the organization; and
+
+Whereas most efforts surrounding restorative justice are aimed at reacting to offense, we recognize that the only way to build a healthy environment is to proactively build a community where harm is less likely to occur; and 
+
+Whereas RP provides a guide for improving connections among organizers, communicating with openness and clarity, reducing harm proactively, repairing harm post factum, healing damaged relationships, and developing meaningful bonds with new members;
 
 </details>
 
 <details>
 <summary>Action</summary>
+Be it therefore resolved, DSA shall publicly endorse restorative justice in our schools and communities; and
+
+Be it further resolved, at least 1/6th of members of the National Political Committee [“NPC”] shall receive formal restorative practices training by an certified instructor or institution with 6 months of the passing of this resolution; and
+
+Be it finally resolved, a team assembled by the RP-trained members of the NPC including the National Harassment and Grievance Officer, RP and RJ professionals, and member volunteers with specialization in this field, shall create a web-based Restorative Practices Curriculum and 5-year implementation plan that is accessible by membership within 1 year of the passing of this resolution, ensuring that resources for implementing RP are equally accessible by all local chapters and that the RP process is consistent and fair throughout DSA’s membership.
 
 </details>
 
 ### Commentary
 
 
-## 1. 
+## 25. Childcare 
+
+### Authors
+* Laura C, Chicago DSA
+* Bria D, Boston DSA
+* Logan Y, New Orleans DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS, 
+
+1. Our socialism is feminist, pro-worker, and dedicated to fighting against the burdens of capitalism for all parents and caregivers, particularly for women of the working class, who provide disparate amounts of reproductive labor, including child care;
+2. The United States is one of the only countries in the world that does not require workplaces to offer paid parental leave to workers; 
+3. Low wages require most parents and caregivers to work full-time or more than full-time outside the home, causing them to rely on paid care for their children, or to rely upon the uncompensated labor of extended relatives or community members who may already be burdened by multiple obligations under capitalism; 
+4. Daycare and other forms of child care are expensive, costing more than in-state tuition at a four-year public college in 33 states, and are an undue burden on the working class; 
+5. Child care workers often receive low wages, are deeply exploited by difficult working conditions, are disproportionately women of color or immigrants, may not be eligible to unionize under the NLRA, often work in the informal sector, and often struggle to find affordable or adequate care for their own children while they care for the children of others;
+6. Domestic and child care work is a key, largely unorganized sector of the economy, related to other female-dominated sectors of reproductive labor such as nursing and teaching; 
+7. The capitalist economy relies upon the unpaid or underpaid reproductive labor of people who can become pregnant and people who take on caregiving roles to reproduce its workforce;
+8. Providing free, high-quality universal child care and preschool would reduce the reliance of working parents on their workplaces for wages and child care benefits, thus shoring up worker power;
+9. Socialism recognizes that childrearing should be a communal undertaking, and that by providing welcoming and supportive spaces for children, we can support both those children’s own social, political, and emotional development, along with ameliorating their primary caregivers’ alienation and atomization under capitalism;
+10. Our own organizing spaces must be inclusive, accessible, and welcoming to people of all ages, including families with children, and we must begin educating and valuing the input of the next generation of Democratic Socialists. 
+</details>
+
+<details>
+<summary>Action</summary>
+
+Be it therefore resolved: 
+
+1. That DSA prioritize the fight for guaranteed paid parental leave and public universal child care and preschool, and dedicate resources, including staff time and $10,000 over the next two years, to develop a national campaign for federal, state, and local legislation guaranteeing paid parental leave and free, high-quality child care and preschool for all children; 
+
+2. That DSA require endorsed candidates to support guaranteed paid parental leave and public universal child care and preschool and encourage candidates and elected officials to develop universal (not means-tested) policies to that effect; 
+
+3. That DSA’s National Labor Commission or DSA members active in labor organizing and the Socialist Feminist Working Group or a sub-committee thereof collaborate to develop a feminist labor strategy to support efforts by domestic and child care workers to organize and improve their wages and working conditions; 
+
+4. That DSA dedicate national resources, including staff time and $10,000 to be spent at 
+the direction of the Socialist Feminist Working Group in coordination with the NPC and national staff as well as members that have developed existing child watch programs, to: a. develop or modify and disseminate child watch materials for chapters, starting 
+with the adaptation of existing chapter initiatives, b. train members to provide child watch services at chapter meetings and events, c. help chapters navigate statewide requirements for providing such services, and d. make child watch programs as inclusive as possible of disabled children and 
+children with other needs;
+
+5. That the Socialist Feminist Working Group or a sub-committee thereof will establish a timeline and milestones for child watch program progress in coordination with the NPC and national staff, with the goal of working towards at least 75% of chapters having at least one member trained in child watch programming, and 50% of chapters having a regular child watch program, providing child watch for at least every chapter-wide meeting, by August 1, 2020. 
+</details>
+
+### Commentary
+
+
+## 26. Creating the DSA Regional Coordinating Committee
+
+### Authors
+* Suzanne-J. M, New Orleans DSA
+* Trey D, New Orleans DSA
+* Joshua L, New Orleans DSA
+* Tal L, Los Angeles DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas, National bodies should be both accountable and effective, which at DSA’s current size requires creating intermediate democratic structures, and
+
+Whereas, National decisions should be based on concrete dialogue across local, regional, and national formations, and
+
+Whereas, coordination and cooperation between chapters within regions, and sensitivity to regional conditions more broadly enables our organization to respond to developments borne out of distinctive regional conditions;
+</details>
+
+<details>
+<summary>Action</summary>
+THEREFOR BE IT RESOLVED, the National Political Committee shall establish a Regional Coordinating Committee. The NPC shall seek nominations for participation in the committee to ensure representation from small and rural chapters, and a range of geographic regions; and further 
+
+Resolved, that the Regional Coordinating Committee shall be organized to: 1) Ensure that every Local is represented in a Regional Organization by August 2020. 2) Create a sample Regional Constitution and assist Locals, as necessary, in drafting Regional Constitutions and Regional Boundaries. 3) Assist in administering referenda to approve the new Organizations across regions and in mediating discussions regarding Regional Boundaries and Local assignment. 4) Determine the initial apportionment of Local delegates for each new regional organization, to be amended at the first Regional Meeting. Proportions for delegations shall be consistent within Regional Organizations but not necessarily between Regional Organizations; and be it
+
+Resolved, that the Regional Coordinating Committee shall be tasked to ensure that the Constitutions of Regional Organizations: 1) Include provisions to allow new and current Locals to leave and join adjacent Regional Organizations in order to facilitate more effective organizing. 2) Include provisions for the election of the Regional leadership body, to meet in-person or remotely, no fewer than four times annually. 3) Include provisions setting delegate apportionment for the Region annually, ensuring that all Locals are apportioned proportionally, that no Local shall receive less than than one delegate and one alternate, and keeping the total size of the Regional Delegation below 100 members. Delegates to the Regional Organizations shall be apportioned based on the dues-paying membership of the Local (including all members up to one year arrears in dues); and be it 
+
+
+Resolved, that the NPC shall ensure that once 50% plus one (1) of the total membership is represented on the National Organizing Council the powers and duties of the Regional Coordinating Committee shall pass to the NOC and the RCC shall be dissolved.
+
+</details>
+
+### Commentary
+
+
+## 27. Proposed 2019-2020 National Priorities for DSA
+
+### Authors
+* Leo C, Metro DC DSA, North Star
+* Bill B, Ventura County DSA, North Star
+* Duane C, Sacramento DSA, North Star
+* Jose G, Metro DC DSA, North Star
+* Nathan N, NYC DSA, North Star
+* Miriam B, NYC DSA, North Star
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS for a membership organization to be truly democratic, it is essential that the important decisions about its political positions and its political work be made as close as possible to the membership, with the widest possible discussion and participation;
+ 
+WHEREAS  as a democratic socialist organization, DSA has among its first principles the importance of collective action, informed by a strategic assessment of the historical moment in which we find ourselves and what it demands of us, and the necessity of deciding how we act collectively through the most democratic processes;
+ 
+WHEREAS in DSA, the National Convention is established “highest decision making body” in our Constitutions and By-Laws, and has the widest participation of rank-and-file members from across the country;
+ 
+WHEREAS  the democratic venue for establishing DSA’s organizational priorities must therefore be the National Convention; if the National Convention does not act, the important  decisions over organizational priorities will necessarily devolve to subordinate decision making bodies with less participation, such as the National Political Committee (NPC), or to the national staff, and be less democratic;
+</details>
+
+<details>
+<summary>Action</summary>
+BE IT THEREFORE RESOLVED:
+ 
+THAT  this 2019 National Convention of Democratic Socialists of America do hereby establish the top three priorities for our organizational work for the period until to our next annual Convention:
+* Defeating Trump and Trumpism, and Electing Democratic Socialists, as set forth in resolution entitled “Defeat Trump and Trumpism, Elect Democratic Socialists”;
+* Defending Immigrants and Refugees, as set forth in resolution entitled “Addressing Immigration Policy and Defending Immigrants and Refugees”;
+* Promoting the Green New Deal, as set forth in resolution on that subject sponsored by the Eco-Socialist Caucus.
+
+</details>
+
+### Commentary
+
+
+## 28. End Cash Bail
+
+### Authors
+* Kansas City DSA Prison Abolition Working Group
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas, the American political project is built on settler colonial genocide, chattel slavery, and fascist violence directed at people of oppressed nations; and
+
+
+Whereas, the Prison Industrial Complex (PIC) is one of the primary institutions by which the values of these systems (racism, cisheteropatriarchy, economic exploitation, etc.) are maintained; and
+
+
+Whereas, the movement to abolish prisons provides the only morally clear and workable framework to address not only the harm created by the PIC, but the harm at every level in our communities that takes the form of systemic and interpersonal violence; and
+
+
+Whereas, the abolitionist movement has identified abolishing cash bail and pretrial incarceration as a political priority in the near term capable of reducing incarceration rates and reigning in police power, instead of merely reforming the living conditions within prisons; and
+
+
+Whereas, mainstream attempts to address “mass incarceration” risk increasing the powers of police and prisons, by focusing only on bail without addressing pretrial incarceration, inevitable allocating more money, increasing police presence, providing technology that can be co-opted by police and turned against the public, and rehabilitating the image of these institutions through promoting dialogues with individual “bad actors”;
+
+</details>
+
+<details>
+<summary>Action</summary>
+Be it therefore resolved, the Democratic Socialists of America will begin a national campaign and form a national committee to promote the abolition of cash bail and pretrial incarceration via a variety of coordinated tactics, ranging from the promotion of community bail funds, to political education around transformative justice, and to advocacy for relevant proposals and legislation; and
+
+
+Be it further resolved, this project is not ancillary to other projects within the Democratic Socialists of America, but an integral part of the larger socialist vision for health justice and labor rights, which must be incorporated into existing political projects, not treated as niche concern separate from the core mission socialist politics.
+
+</details>
+
+### Commentary
+
+
+## 29. Prioritizing Financial Solidarity
+
+### Authors
+* Dag A, Eugene DSA, LSC
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas, as socialists we stand in solidarity with people living in poverty; 
+
+And whereas, we believe in democracy where decision-making power lies in the hands of ALL the people, not only those who can pay to exercise it;
+
+And whereas, DSA has many members experiencing poverty who should be just as able to participate in National DSA as those members who are financially secure;
+
+And whereas, means-testing assistance programs serves to humiliate those that benefit from them and deny them the help they need;
+
+</details>
+
+<details>
+<summary>Action</summary>
+Be it therefore resolved, 
+
+When establishing the budget, the NPC shall prioritize ensuring that all members are able to participate in the National Convention and any other Constitutionally mandated events, regardless of the ability to pay, over program work, and shall include the cost of ensuring all members are able to participate, regardless of the ability to pay, in the budget for any program work.
+
+Be it further resolved,
+
+DSA shall establish a Financial Solidarity Program to enable all members to participate in DSA activities, including, but not limited to, the National Convention, regardless of ability to pay. Such program:
+Shall minimize out-of-pocket costs to members requesting assistance;
+Shall not require justification of need unless all participants in the event the assistance is for are asked to explain and reflect upon their class position.
+
+Be it further resolved,
+
+The NPC shall, by February 1 2020, establish a Committee to oversee and establish policy for the Financial Solidarity Program and a majority of such committee shall be DSA members that self-report that they are currently experiencing poverty.
+
+</details>
+
+### Commentary
+
+
+## 30. National Grievance and Harassment Officer Expulsion List
+
+### Authors
+* Forrest D, Los Angeles DSA
+* Rachel R, Los Angeles DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas individual Locals and Chapters of the national organization find themselves at the forefront of confronting issues of intra-member harassment and conflict; and 
+
+Whereas these Locals and Chapters of the national organization are not in positions of authority to expel individual members from the entirety of the national organization; and 
+
+Whereas the national organization has, as yet, not developed universal procedures for expulsion that can apply to all Locals and Chapters; and 
+
+Whereas this conflict could lead to unfortunate inaction;
+
+</details>
+
+<details>
+<summary>Action</summary>
+Be it therefore resolved, the National Grievance and Harassment Officer be charged with maintaining a secure list of members of the national organization who have been expelled by Locals or Chapters. This list is to include the member’s name, the Local or Chapter from which this member was expelled, and the date upon which this expulsion was effective; and 
+
+Be it further resolved that this list is to be populated by submissions from Locals and Chapters when judgements of expulsion have been made, rather than through periodic or proactive solicitation by the National Grievance and Harassment Officer; and 
+
+Be it further resolved that this list is to be similarly updated by submissions from Locals and Chapters when judgements of expulsion have been overturned and are no longer applicable, resulting in the National Grievance and Harassment Officer removing the particular expulsion from the maintained list in its entirety; and 
+
+Be it finally resolved that this list will be made available to the democratically elected and duly empowered leadership of any Local or Chapter that should formally submit a request to the National Grievance and Harassment Officer.
+
+</details>
+
+### Commentary
+
+
+## 31. Class Struggle Elections
+
+### Authors
+* Marianela D, Chicago DSA, NPC (appointed), Bread & Roses
+* Lillian O, Chicago DSA, Bread & Roses
+* Megan S, East Bay DSA, NPC candidate, Bread & Roses
+* Jack M, East Bay DSA, Bread & Roses
+* Jeremy G, East Bay DSA, NPC, Bread & Roses
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas electoral races have given DSA opportunities to further galvanize the socialist movement, popularize our political program, bring attention to our organization, build our organizing capacity, and grow our membership, 
+
+Whereas the National Electoral Strategy adopted at the 2017 convention prioritizes a grassroots approach at the chapter level for electoral campaigns but does not outline an approach to national electoral campaigns, 
+
+Whereas DSA has nationally endorsed several dozen electoral candidates across the country in the last two years and will continue to receive requests to do so, 
+
+Whereas DSA’s national electoral strategy should work toward building working-class power and spreading socialist ideas across the country, taking advantage of the attention garnered by electoral races to further highlight the difference of interests between the capitalist class and the working class, therefore...
+
+</details>
+
+<details>
+<summary>Action</summary>
+Be it resolved, DSA will use elections, public offices, and legislation as vehicles to encourage working-class organization, promote progressive legislation, and build support for democratic socialist ideas. This class-struggle electoral strategy will employ the following criteria to make national endorsements of candidates who: 
+
+1. Openly identify as socialists. 
+
+2. Through their election campaigns, and once in office, see mobilizing and fighting alongside working people as one of their primary responsibilities. They will use their public profile to popularize a class struggle perspective, one that sees the working class as the agents of change and capitalists and capitalist politicians as the main barrier to change. 
+
+3. Actively and explicitly oppose racial, national, gender, and other forms of oppression and discrimination and repudiate support from oppressive or bigoted figures. 
+
+4. Commit to using their campaigns and elected offices to help build and unite socialist, union, and other worker organization and militancy independent of candidates’ campaigns and of the Democratic Party. 
+
+Be it further resolved, DSA is committed to building political organization independent of the Democratic Party and their capitalist donors. Our immediate goal is to create a “candidate pipeline” program for qualified DSA members and potential class-struggle candidates. Such a candidate pipeline will require the allocation of national staff time to build out the program. In the longer term, our goal is to form an independent working-class party, but for now this does not rule out DSA-endorsed candidates running tactically on the Democratic Party ballot line. 
+
+Be it finally resolved, DSA will adopt a class-struggle approach to the Bernie Sanders campaign. This includes creating independent socialist political propaganda; building a strong DSA for Bernie campaign; supporting Labor for Bernie efforts to democratize union endorsement processes and win union backing for Sanders; and preparing to build working-class organization beyond the Sanders campaign, whether Sanders wins or loses.
+
+</details>
+
+### Commentary
+
+
+## 32. Labor Strategy and the DSLC 
+
+### Authors
+* Andrew P, Columbus DSA, Bread & Roses
+* Marsha N, NYC DSA, NPC Candidate, Bread & Roses
+* Jonah F, NYC DSA, Bread & Roses
+* Natalie M, Philly DSA, NPC, NPC Candidate, Bread & Roses
+* Jane S, Detroit DSA
+* JP K, Chicago DSA, Bread & Roses
+* Abby A, Chicago DSA, Bread & Roses
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas working people, the vast majority of society, have in their workplaces the structural power to attack capitalists’ profits and an interest in replacing capitalism with socialism. Organizing in and with the labor movement is therefore necessary to abolish capitalism. 
+
+
+Whereas DSA created the Democratic Socialist Labor Commission to lead organizing work nationally within the labor movement. Since the last convention the DSLC has worked hard to improve our organizing capacity, but the DSLC’s limited resources have been a barrier and it needs more resources and political direction to better accomplish its work.
+
+</details>
+
+<details>
+<summary>Action</summary>
+Therefore be it resolved that the DSLC will focus on pursuing the rank and file strategy. The rank-and-file strategy argues that socialists’ central focus should be on identifying and developing a layer of rank and file leaders who can organize in the workplace on a day-to-day basis. This day-to-day organizing plays a crucial role in creating workers’ sense of being part of something bigger — not just a union, but a working class — that is capable of fighting, winning, and ultimately ruling. 
+
+
+Therefore, the DSLC will continue to create general educational materials for DSA. Teaching people about the labor movement is a critical part of the DSLC’s mission. We need to educate members about the connection between the labor movement and the socialist movement. Our members need to understand how today’s labor movement functions, including its constraints as well as its possibilities. 
+
+
+Therefore, the DSLC will create materials explaining the rank and file strategy and how members can participate. One existing example is the “Why Socialists Should Become Teachers” pamphlet. The DSLC will create materials arguing for socialists to take jobs in different union workplaces, a pamphlet on how to start a union in a non-union workplace, and report backs from members who do this work. 
+
+
+Therefore the DSLC will create a Speakers Bureau to educate DSA members. The DSLC will find speakers who are knowledgeable and make it easy for chapters to connect with them. The goal will be to have speakers throughout the country so travel costs will be minimal. Chapters can apply to the DSLC to help with travel costs if they are hosting a traveling speaker. 
+
+
+Therefore: The DSLC will create committees or discussion groups based on people’s jobs. This will allow members to share experiences and ideas, with the goal of joint action in the future. 
+
+
+Therefore the national organization will help the DSLC with labor mapping. National will change its intake membership form to ask about people’s job and union connection. National will also conduct a survey of current members. 
+
+
+Therefore the DSLC will encourage chapters to support strikes and will produce a pamphlet about best practices for doing so. Strike support can build connections between workers and educate our members about unions. 
+
+
+Therefore, the DSLC will make use of Labor Notes’ organizing training. These trainings will allow our members to make connections with other workers and develop the skills needed to organize. The DSLC will help chapter labor committees fundraise to send members to the April 2020 Labor Notes Conference and to participate in Labor Notes activities such as local Troublemakers Schools. 
+
+
+Therefore, the DSLC will help chapters create Jobs Programs where members are mentored and supported. First, the DSLC will help chapters survey their area and determine the strategic sectors in their area where multiple members could get jobs. Second, the DSLC will train chapters on how to support members who are joining those sectors and provide training on how experienced workers can support new workers. Third, the DSLC will facilitate national communication and where possible coordination of members working in the same “industry” (e.g., K-12 schools). New York City DSA has begun such a jobs program that other chapters could consult as a possible model. 
+
+
+Therefore DSA will increase the resources available for the DSLC. The DSLC shall have a permanent staff person to aid in its work within 4 months of the convention. The staffer will work on building labor branches and labor working groups, help build a national/regional communications structure, and provide guidance & resources to labor branches/working groups about projects they can undertake, including M4A, Bernie, promoting r&f jobs, and educational events. Additionally the DSLC and the NPC will create a plan within 6 months for how to sustainably hire more staff to do labor work.
+
+</details>
+
+### Commentary
+
+
+## 33. Invest in Political Education
+
+### Authors
+* Andrej M, Seattle DSA, Bread & Roses
+* Marianela D, Chicago DSA, NPC (appointed), NPC Candidate, Bread & Roses
+* Rachel Z, Chicago DSA, Bread & Roses
+* Natalie M, Philly DSA, NPC, NPC candidate, Bread & Roses
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS education in history and theory of socialist struggle is critical to building a mature and effective socialist political movement, and democratic decision-making is strengthened by ensuring members have the historical and theoretical knowledge to independently assess strategic choices brought before them, 
+
+
+WHEREAS an understanding of the successes and failures of the socialist movement historically, paired with a strong analysis of the strengths and weaknesses of our movement and capitalist class rule today, will enable us to formulate and put into action better, more effective campaigns, 
+
+
+WHEREAS the socialist movement has been in retreat for over half a century, and most DSA chapters have few experienced educators well-versed in socialist history and theory, but we do have chapters with successful Socialist Night School and other education programs whose lessons could be more effectively drawn upon and distributed throughout the entire organization;
+
+</details>
+
+<details>
+<summary>Action</summary>
+THEREFORE BE IT RESOLVED that national DSA shall prioritize building and implementing a socialist political education program. This program will begin by consolidating existing educational materials, such as the Socialist Night School Guide produced by the National Political Education Committee. Such resources should be hosted on a dedicated and easily accessible page of the national website. This page will also contain sample night school sign-in sheets, flyers, and other materials, in the style of the Medicare-for-All campaign resource page. 
+
+
+BE IT FURTHER RESOLVED the DSA Political Education Committee will expand the Socialist Night School Guide to include best practices for organizing successful political education events. This should focus on guidance for how to run a successful ongoing political education program, including turnout, facilitation, follow-up and incorporation of local campaigns into political education curricula. 
+
+
+BE IT FURTHER RESOLVED develop learning modules based on DSA’s areas of work and priorities — decommodification, electoral work, labor and unions, as examples — and a list of suggested learning objectives for each one. 
+
+
+BE IT FURTHER RESOLVED in order to connect the majority of chapters with experienced socialist activists, thinkers, and organizers, the national Political Education Committee will sponsor a regular series of political talks recorded for distribution to chapters. 
+
+
+BE IT FURTHER RESOLVED that in order to train a new generation of socialist educators, DSA will produce a regular educational podcast targeted at members facilitating political education within their local chapters. This program should provide guidance on using the educational materials like the proposed recorded events and The Stacks political education newsletter. This should consist of additional political education, such as why these works were selected and how they relate to our current political moment, as well as pedagogical advice, like how to develop good discussion questions and helping less confident members feel welcome to engage. 
+
+
+BE IT FURTHER RESOLVED that national DSA shall allocate sufficient funds to ensure the preceding proposals can be produced at a high-quality level befitting a 60,000+ member organization.
+</details>
+
+### Commentary
+
+
+## 34. Ecosocialist Green New Deal Priority 
+
+### Authors
+* Matthew H, Huron Valley DSA, Ecosocialist WG
+* Sydney G, Los Angeles DSA, Ecosocialist WG
+* Ashik S, Metro DC DSA, Ecosocialist WG
+* Ted F, East Bay DSA, Ecosocialist WG
+* Shauna M, San Diego DSA, Ecosocialist WG
+* Jeff G, Austin DSA, Ecosocialist WG
+* Becca M, Boston DSA, Ecosocialist WG
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+
+</details>
+
+<details>
+<summary>Action</summary>
+Be it resolved, National DSA resources shall be committed to building the movement for a radical Green New Deal (GND). To accomplish this task, the NPC & national DSA staff, in collaboration with the national DSA Ecosocialist Working Group (DSAEWG), other relevant national committees & working groups as well as local chapters, shall: 
+
+A. Establish a national DSA priority campaign to fight at the national, regional, & local levels for a radical GND that is aligned with the DSAEWG’s Guiding Principles & incorporates & embraces all of DSA's national campaigns & priorities, organizing for a society that is democratically run by working people; ecologically sustainable; free of oppression based on race, religion, national origin, gender, age, disability, or sexual identity; & rooted in internationalism & solidarity rather than imperialism & war. To this end, the DSAEWG will incorporate a campaign subcommittee (hereinafter the GNDCC) that will develop an organizing strategy & coordinate within DSA the work of organizing for a GND. The DSAEWG will be tasked with organizing the subcommittee & its leadership selection, as well as strategic outreach to other national working groups whose charges intersect with GND goals to ensure their leadership & perspectives are reflected in the campaign. 
+
+
+B. Popularize the demand for an ecosocialist GND through outward-facing education, media, outreach, & other efforts aligned with the DSAEWG’s Guiding Principles. Direct the DSAEWG, the GNDCC, & the Political Education Committee to develop educational programs & materials that connect the latest environmental science, climate-related disasters, & related movements to broader struggles against capitalism to our fight for a GND. Utilize DSA listservs, social media platforms, publications, & other communication resources to amplify local & national work as part of an overall struggle for democratic ecosocialism & a GND. 
+
+
+C. Support the demand for a GND process that is transparent, inclusive, & democratic & includes the voices of frontline, disproportionately impacted, & threatened communities at all stages. Amplify the perspectives & insights of impacted communities through national media platforms. 
+
+
+D. Devote staff capacity (& expand staff as necessary) to coordinate with the GNDCC & local chapters engaged in GND & ecosocialist work & to maintain relationships with national & local organizations aligned toward a radical GND. Staff will partner with the DSAEWG & GNDCC in parlaying local efforts into a focused & effective national campaign, with at least one staff member entirely dedicated to this purpose. 
+
+
+E. Work to build a powerful alliance of the labor, social justice, progressive, leftist, youth, & climate & environmental justice movements to win a radical GND & just transition policies at local, regional, national, & international levels based on our common demands around ecology, labor rights, jobs, justice, equality, & peace. 
+
+
+F. Task DSA’s Democratic Socialist Labor Commission (DSLC), in partnership & close collaboration with the DSAEWG & GNDCC, to work with & support union organizing & worker struggles for a GND alongside the development of Just Transition implementation plans. These efforts should coalesce with broader alliance-building initiatives. 
+G. Support political candidates & organizations that aid in the fight for a radical GND and, in electoral campaigns in which DSA participates, agitate for elements of a radical GND described in the DSAEWG’s Guiding Principles. 
+
+
+H. Direct the GNDCC, in partnership with the DSAEWG, DSA staff, & each region’s field organizer, to provide support to chapters with analyzing their local contexts, developing individual climate/environmental justice plans, & counseling on implementation tactics. Provide education & mentorship to help chapters develop organizing strategies, knowledge, & skills most relevant to implementing radical GND efforts in their localities, recognizing the varying political terrains they face. Help develop materials & resources for local ecosocialist campaigns that can cohere as part of the broader struggle for a GND. Facilitate collaboration & political interaction between chapters working on similar campaigns, & between chapters & allied groups outside DSA. 
+
+
+I. Direct the GNDCC & designated staff to work with national working groups & appropriate DSA bodies to develop alliances of solidarity & cooperation that build an anti-imperialist, anti-racist, feminist, working class, internationalist movement here & abroad for an ecologically thriving & just world.
+
+</details>
+
+### Commentary
+
+
+## 35. Establish a National BDS and Palestine Solidarity Working Group
+
+### Authors
+* Olivia K. S, Portland DSA
+* Jarib R.
+* Valerie S, LSC, NPC Candidate
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas, the Democratic Socialists of America (DSA) endorsed the Boycott, Divestment, and Sanctions (BDS) movement at its 2017 national convention; 
+
+Whereas, the DSA Internationalism Committee is a closed, application-based committee with a limited number of spots and thus cannot facilitate the kind of open collaboration among rank- and-file members that is necessary to advance BDS and Palestine solidarity work; 
+
+Whereas, DSA working groups help link DSA to critical social movements and provide an important mechanism through which DSA members can mobilize around particular issues within the organization, and which anyone can become a member; 
+
+Whereas, a number of local DSA chapters are already involved in local and national level Palestine solidarity and BDS campaign organizing, in coordination with local and national Palestine solidarity organizations, and consolidation and coordination of these efforts would further develop and expand this work in DSA chapters;
+
+</details>
+
+<details>
+<summary>Action</summary>
+Be it resolved that the Democratic Socialists of America establish a national working group dedicated to BDS and Palestine Solidarity; 
+
+Be it resolved that the National will allow autonomous leadership and membership of said working group; 
+
+Be it resolved that the National will reaffirm BDS and Palestine solidarity as a priority for the national organization and further commit itself to organizing in solidarity with the BDS movement, which urges nonviolent pressure on Israel until it meets three demands: ending its occupation and colonization of all Arab lands and dismantling the Wall; recognizing the fundamental rights of the Arab-Palestinian citizens of Israel to full equality; and respecting, protecting and promoting the rights of Palestinian refugees to return to their homes and properties as stipulated in UN Resolution 194. 
+
+</details>
+
+### Commentary
+
+
+## 36. Engaging with District Attorney Races to Fight Incarceration and Capitalist Power
+
+### Authors
+* Emma C, Brooklyn DSA, SMC
+* Alexandra H. S, Queens DSA
+* David V, Metro DC DSA
+* Dannelly R, Chicago DSA
+* Ramsin C, Chicago DSA, B&R
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS the United States has a two-tiered system of criminal law, where the wealthy and powerful avoid prosecution despite their exploitation and violence, and people of color and the working class are disproportionately prosecuted and incarcerated for crimes of poverty;
+
+Whereas elected District Attorneys (“DAs”) have unparalleled discretion to enforce or not enforce law, convene grand juries to conduct investigations, and prosecute corporations themselves as legal entities;
+
+Whereas the Black liberation movement in this country, from the #ByeAnita campaign of Assata’s Daughters to the Larry Krasner campaign led by Human Rights Coalition, has used engagement with DA races to fight for prison abolition and against racist prosecutions;
+
+Whereas the Democratic Socialists of America (DSA) has a valuable democratic socialist vision to bring to the prison abolition movement and needs concrete campaigns to lay out this vision;
+
+Whereas a politics of prison abolition rooted in forgiveness and humanity do not replace the need for accountability and systemic change, especially for the capitalists, landlords, and war criminals responsible for the majority of the harms in the world;
+
+Whereas the case of Maryland, where record decarceration has begun to be reversed by a violent new crime bill signed into law in 2018, shows that a window for fighting mass incarceration can quickly shut if not accompanied by a movement ready to build institutional power;
+
+Whereas it is important to call out opportunists, funded by corporate money, who will run for DA with promises of fighting mass incarceration but with no actual commitment to do so;
+
+Whereas coercive and punitive diversion programs like the Human Trafficking Intervention Courts in New York City which prosecutes sex workers for crimes rooted in class war, misogyny, and racism, show the risk of allowing the current political system to dictate decarceration;
+
+</details>
+
+<details>
+<summary>Action</summary>
+BE IT THEREFORE RESOLVED that the National Political Committee (“NPC”), through whichever national body it deems fit, assists local chapters engaging in District Attorney (“DA”) and Attorney General (“AG”) elections, such as but not limited to providing messaging around decarceration, ending prosecutions of poverty, and prosecuting corporate wrongdoing. 
+
+Be it therefore resolved that the National Office will designate a staffer who, upon requests from local chapters, will disseminate materials created by the NPC as outlined above, and that such designation can be incorporated, if deemed appropriate, into any broader responsibility of managing support of electoral efforts by chapters. 
+
+Be it therefore resolved that through DA and AG elections, DSA will promote a socialist vision of prison abolition that protects people from corporate exploitation as well as dismantling racist incarceration and ending prosecutions of the working class. 
+
+Be it therefore resolved that DSA, through DA and AG elections, promotes prosecuting corporations in all forms of illegal exploitation, including fraud, illegal menacing and surveillance of labor organizers, usury, violations of rent control, and wage theft. 
+
+Be it therefore resolved that DSA, through DA and AG elections, advocates the end of prosecution of the working class in all forms, such as but not limited to welfare crimes, trespassing, and drug possession. 
+
+Be it therefore resolved that DSA, through DA and AG elections, promotes public safety through means other than incarceration, policing, and surveillance of communities, such as but not limited to community mediation, harm reduction programs (such as needle exchanges), and diversion programs that do not compel attendance by threat of incarceration. 
+
+</details>
+
+### Commentary
+
+
+
+## 37. 50/50 Dues Split
+
+### Authors
+* Evan B, Portland DSA
+* Kevin H, Portland DSA
+* Connor S, Portland DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas National shared only 4.3% of total membership dues to the local chapters in 2018 (and the 2019 budget projected this percentage would go down) 
+
+Whereas only monthly dues are subject to dues split, while yearly dues are kept entirely by National
+ 
+Whereas monthly dues accounted for only 21.9% of total dues collection in 2018 
+
+Whereas yearly dues accounted for 78.1% of total dues collection in 2018 and are entirely kept by National 
+
+Whereas many members do not know what is done with their money because they don’t see it benefitting them at the local level 
+
+Whereas a grassroots organization will only be effective if it is equipping its Locals to organize with their own funds 
+
+Whereas a 4.3% return of dues does not indicate a democratic grassroots organization but instead an issue-based advocacy organization;
+</details>
+
+<details>
+<summary>Action</summary>
+
+Be it therefore resolved, that 50% of monthly dues contributions by members in the Local's jurisdiction shall be returned to that Local quarterly. 
+
+
+Be it further resolved, that 50% of yearly dues contributions by members in the Local's jurisdiction shall be returned to that Local quarterly 
+
+
+Be it finally resolved, that only Locals that are legally incorporated with a bank account will collect the dues split, as per current policy.
+
+</details>
+
+### Commentary
+
+
+
+## 38. Fight For Abortion Access
+
+### Authors
+None listed.
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS:
+
+
+1. Our socialism is feminist, anti-racist, anti-heterosexist, anti-cissexist, anti-ableist, pro-worker, and unabashedly supportive of everyone’s bodily autonomy without stigma or shame.
+
+2. Abortion rights are under attack in the United States, both on the federal level and in the states. Within the first five months of 2019, draconian abortion bans have passed in Ohio, Kentucky, Mississippi, Missouri, Georgia, and Alabama. Once the newly passed laws are enacted, legal abortion will be dramatically limited or completely prohibited, either altogether (in AL), after six weeks from the first date of the last menstrual period (in OH, KY, MS, & GA), or after eight weeks (in MO). These attacks on reproductive freedom are increasing in frequency and intensity, and there is every indication that they will continue.
+
+3. In many places where abortion is technically legal, financial and logistic barriers to accessing it creates an intolerable hardship for many members of the working class needing abortions. As long as abortion is treated as a separate category of healthcare, the difficulties inherent in navigating the legal restrictions, waiting periods, shortages of providers, and expense of abortions blatantly discriminates against people who are already oppressed by capitalism. This is felt even more keenly by incarcerated individuals who are or can become pregnant, who are routinely denied appropriate reproductive healthcare.
+
+4. As abortion rights become further restricted and abortions become criminalized in several states, the impact of these injustices will be visited most severely on individuals who are already marginalized in our society. This means that our focus must address not only cis women who are centered within much advocacy for abortion rights, but also consider the additional risks of the carceral state for people of color, trans men and non-binary individuals, undocumented persons, sex workers, and disabled individuals, who may be at increased risk of incarceration and state violence where abortion is criminalized.
+
+5. These attacks are grounded in misogyny, transphobia, and the desire to uphold a cis-heterosexual normative model of reproduction within “traditional marriage,” and we cannot rely on the courts to protect our reproductive freedom;
+
+</details>
+
+<details>
+<summary>Action</summary>
+BE IT THEREFORE RESOLVED:
+
+1. To have all federal, state, and local candidates endorsed by DSA vocally, enthusiastically, and unequivocally support abortion rights, access to abortion, the repeal of the Hyde amendment, and full federal funding of abortion.
+
+
+2. To dedicate DSA resources to organizing the fight for abortion access, not only to oppose current efforts to criminalize abortion but also to eliminate all obstacles and expand access. These resources should include paid staff time, DSA communications, and development of training resources, which can include adoption and/or modification of existing training materials. These efforts should be undertaken in collaboration with DSA members who work in abortion care as well as with existing reproductive justice organizations such as the National Network of Abortion Funds and local abortion funds.
+
+
+3. To declare that Medicare for All must include free reproductive healthcare for all people, including unrestricted access to abortion.
+
+
+4. To frame our demand for free and unrestricted abortion within an overall vision grounded in reproductive justice. Consistent with the framework developed by Women of African Descent for Reproductive Justice and SisterSong, we envision reproductive justice to encompass our right to not have children, to have children, to be treated with dignity and respect in accessing all forms of reproductive healthcare freely and without restriction, and to be able to parent the children that we do have in safe and sustainable communities. We also advocate for centering and uplifting the marginalized voices of working class people of color that are most affected by abortion restrictions. 
+
+
+5. To challenge the dominant narrative that abortion should be “safe, legal, and rare” and replace it with the call for abortion to be fully funded and freely available without stigma.
+
+</details>
+
+### Commentary
+
+
+
+## 39. Petition to Bernie Sanders for a People’s Foreign Policy Platform
+
+### Authors
+* Jared A, Boston DSA
+* David G, Boston DSA
+* Carolyn D, Seattle DSA
+* Aram F, Seattle DSA
+* Roy Z, Seattle DSA
+* Christian M, Seattle DSA 
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas large numbers of DSA members are actively supporting the Sanders 2020 campaign because of its progressive domestic policy agenda;
+
+Whereas socialism being inherently an international movement for workers' rights, the Democratic Socialists of America supports a just and anti-imperialist foreign policy;
+
+Whereas broad economic sanctions imposed by the United States on Iraq in the 1990’s and on Iran, Cuba, and Venezuela by the Trump Administration primarily hurt average citizens;
+
+Whereas a progressive foreign policy requires opposition to illegal wars and occupations, and other unjust power relationships;
+</details>
+
+<details>
+<summary>Action</summary>
+Be it therefore resolved that the National Office will create an online petition urging Bernie Sanders to commit to the following actions immediately upon taking office:
+
+* Complete and immediate cutoff of all assistance to the Saudi military campaign in Yemen
+* Pledging to honor the letter and the spirit of the Iran nuclear deal while announcing a commitment to return the US as a signatory to the treaty
+* Suspension of all economic sanctions imposed by Donald Trump on Iran
+* Pledging to honor the letter and the spirit of the Paris climate accords
+* Reversal of the recognition of Jerusalem as the capital of Israel
+* Reversal of the recognition of the Golan Heights as Israeli territory
+* Restoration of funding to the United Nations Relief and Works Agency that was cut off by the Trump administration
+* Recognizing citizen economic boycotts as a form of free speech protected by the United States constitution, including the boycott, divestment, and sanctions movement for Palestinian rights
+* Dropping all charges against Edward Snowden, Julian Assange, and Chelsea Manning related to their whistleblowing activities
+* Restoring the diplomatic relationship with Cuba that was cut off by Donald Trump, and removing economic sanctions imposed on Cuba by the Trump administration
+* Removing all oil and banking sanctions imposed on Venezuela and supporting a negotiated solution to Venezuela’s political crisis
+* Introducing a Senate resolution to recognize the jurisdiction of the International Criminal Court (ICC)
+* Removing all sanctions against ICC and its staff
+* Immediate cutoff of all military and security cooperation with Brazil and the Philippines until their governments demonstrate their respect for rule of law and human rights
+* Immediate repeal of the so-called Muslim ban
+
+Be it further resolved that the National Office will publicize the above online petition via printed materials, email, its web site and social media accounts, and will also encourage local chapters to do the same.
+
+Be it further resolved that at a future date determined at its discretion, the National Office will deliver the collected signatures to the Sanders 2020 campaign and request an official response, which the National Office will then communicate back to the DSA membership.
+</details>
+
+### Commentary
+
+
+
+## 40. Housing as a Human Right
+
+### Authors
+* Donald J, Austin DSA
+* Stephanie T, Austin DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS:
+1. Housing is a human right essential to health, economic stability, and basic existence.
+2. The working class will always face a housing crisis under capitalism and a private property regime.
+3. The commodification and financialization of housing has created a crisis of affordability, exploitation, gentrification, and displacement. Housing costs are among the greatest direct burdens on the working class in cities across the United States;
+4. The privatized system of American housing has failed to provide for the essential need of stable shelter for millions, leaving them debt burdened, in unsafe conditions, and increasingly precariously housed or homeless;
+5. American housing policy has been crafted to reinforce segregation by race and class and to disempower and displace working class communities, especially those of color; 
+6. Public housing is deeply underfunded, with an estimated $40 billion dollars in public housing capital repair backlog and additional operational funding needed; 
+7. The chronic and growing unaffordability of American housing is exacerbating homelessness that the private market will never remedy, especially hurting economically-burdened families, the physically and mentally differently abled, and people forced to remain in abusive accommodations, in particular non-men;
+8. Social housing models, especially publicly-owned housing, rent-controlled housing, housing cooperatives, and land trusts have proven effective at serving the needs of people above profit; 
+9. The People’s Policy Project has proposed a strategy for scaling up social housing by building 10 million new public housing units, built carbon neutral according to ecological principles, across the country (Link Here: Social Housing in the United States); and,
+10. Compact, ecologically built housing with transit access can be a core industry to employ hundreds of thousands of unionized workers through a Green New Deal and is an essential piece of any comprehensive strategy to avert climate catastrophe in the coming decade.
+
+</details>
+
+<details>
+<summary>Action</summary>
+BE IT THEREFORE RESOLVED:
+1. DSA declares that fair, safe, stable, accessible, and affordable housing is a human right;
+2. DSA shall dedicate resources to support tenant organizing and education campaigns in cities across the country committed to the following: 
+Promoting the decommodification of housing through expanding publicly-owned housing, social housing funds, and social housing supply;
+3. Developing solidarity networks dedicated to defending and expanding renters’ rights and supporting grassroots campaigns for tenant rights and empowerment; 
+4. Resisting tenant evictions, slum conditions, exploitation, discrimination, gentrification, and displacement through collaboration with democratic renters’ organizations and helping organize tenant unions where they are not already present;
+5. Abolishing statutes and practices that criminalize homelessness and create barriers to housing such as criminal and eviction background checks; and,
+Defending, establishing, and expanding rent control.
+7. DSA shall establish a Socialist Housing Working Group to help coordinate national and inter-local housing justice campaigns, coordinate and promote education on housing policy and socialist housing strategies, and support the creation or expansion of socialist housing local working groups, campaigns, and projects; 
+6. DSA shall require that any candidate seeking DSA electoral support should agree to the following, as applicable:
+    1. Declare and advance Housing as a Human Right;
+    2. Fund and build more public housing, social housing, rent-controlled housing, income-restricted housing, cooperative housing, transit-accessible housing, sustainable housing, accessible housing, and integrated housing;
+    3. Fight for the elimination of evictions, displacement, gentrification, homelessness, criminalization of homelessness, discrimination based on class, race, country of origin, gender, sex, familial status, and LGBTQ status, discrimination based on criminal and eviction background, discrimination based on source of income (e.g., Housing Choice Vouchers), and sprawl;
+    4. Fight for rent control, tenants rights and tenant organizing, funding for affordable housing, housing and services for those experiencing homelessness, sustainable development, and non-exclusionary zoning; and
+    5. Oppose measures that reduce or are contrary to any of the above.
+
+</details>
+
+### Commentary
+
+
+
+## 41. Take the Fossil Fuel Energy Companies into Democratic Public Ownership
+
+### Authors
+* Philip L, Seattle DSA
+* Harris L, Seattle DSA
+* Ramy K, Seattle DSA
+* Stuart S, Seattle DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS Alexandria Ocasio-Cortez and others are proposing a Green New Deal that includes eliminating greenhouse gas emissions in the US by 2030, ensuring a “just transition” for the communities and workers currently employed by or dependent on the fossil fuel industry, and implementing major reforms like universal health care, affordable housing, and food security for all, especially communities of color; 
+
+WHEREAS we recognize that the Green New Deal is incompatible with the power that fossil fuel capitalists have over our country and government, capitalists who are directly threatening the lives of billions of people and all life on earth; 
+
+WHEREAS the major fossil fuel energy companies have amassed some of the greatest accumulation of power and capital in history which they will deploy to block the passage of a robust Green New Deal; 
+
+WHEREAS “[J]ust 100 companies have been the source of more than 70% of the world’s greenhouse gas emissions since 1988,” as The Guardian reported (July 10, 2017); 
+
+WHEREAS Exxon’s own research in the 1970s revealed that fossil fuels contribute to climate change, and then oil companies intentionally suppressed this finding for decades;
+ 
+WHEREAS the Koch brothers are the owners of the second largest privately-owned corporation in the US, which made a large part of its profits through fossil fuels and they buy politicians like other people buy groceries; 
+
+WHEREAS HuffPost reports: “The nine Democrats selected by House Speaker Nancy Pelosi (D-Calif.) to serve on the Select Committee on the Climate Crisis received a combined $198,000 from fossil fuel industry political action committees in the 2018 election cycle” (February 7, 2019); 
+
+WHEREAS the most aggressive fossil fuel industry groups drove the US into two wars in Iraq, propping up the reactionary Saudi monarchy over decades, and attempting or carrying out coups in Venezuela, Iran, and countless other countries; 
+
+WHEREAS we cannot control what we do not own;
+</details>
+
+<details>
+<summary>Action</summary>
+Be it resolved, as part of supporting and campaigning for the Green New Deal, DSA will advocate taking the major fossil fuel energy companies into democratic public ownership and to reallocate their massive resources into clean, renewable energy such as solar, wind, and geothermal; 
+
+Be it further resolved, DSA demands that before any compensation is paid in the process of taking those corporations into democratic public ownership, the fossil fuel companies must be put on trial for the untold damage they have caused the planet and humanity and their systematic suppression of evidence of climate change. They must be held accountable, criminally and financially. Compensation should go to those with proven need, such as working-class and middle-class small shareholders; 
+
+Be it further resolved, that DSA urges all its members elected to federal, state, and local political office to promote these demands; and 
+
+Be it finally resolved, that DSA will promote these demands as part of its independent Democratic Socialists for Bernie campaign.
+
+</details>
+
+### Commentary
+
+
+
+## 42. Endorse the Great Lakes Authority (GLA) Campaign
+
+### Authors
+* Natasha F.S, Metro-Detroit DSA
+* Jessica N, Metro-Detroit DSA
+* Peter L, Metro-Detroit DSA
+* Jane S, Metro-Detroit DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS the Great Lakes basin is home to precious natural resources, including the Great Lakes (which contain one-fifth of the world’s freshwater and provide potable water to over 40 million people), 55 million acres of productive land, and myriad low-carbon recreation options. 
+
+WHEREAS the Great Lakes Region (Michigan and portions of Illinois, Indiana, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin) overlaps substantially with the “Rust Belt,” which has been ravaged for decades by free trade deals, deindustrialization, and corporate pollution, and has yet to recover from the Great Recession of 2008. 
+
+WHEREAS the Rust Belt’s long economic decline -- combined with the increasing regional impact of the climate crisis -- has produced a host of calamities, including the degradation of our air, water, and ecosystems; the privatization of both essential public services and natural resources; decrepit roads and bridges; inadequate mass transit; a housing crisis; the abandonment of entire communities. 
+
+WHEREAS “market solutions” and “benevolent billionaires” have not and cannot address these problems, and have in fact exacerbated them, and only massive public investment and government planning can restore the region’s economy, environment, and infrastructure. 
+
+WHEREAS when General Motors announced plant closings and mass layoffs in 2018, Detroit DSA organized a demonstration demanding that the government seize the Detroit plant by eminent domain and use it to address the climate emergency and build green infrastructure, and a coalition of environmental, labor, and community organizations in Detroit formed around these demands and this radical vision for a Green New Deal. 
+
+WHEREAS Rep. Rashida Tlaib (MI-13), a member of DSA who was part of that coalition, asked Detroit DSA to develop legislative ideas in furtherance of a Green New Deal and to present them to her and her staff. 
+
+WHEREAS Detroit DSA determined that the Rust Belt should be the “Engine of the Green New Deal,” meaning that much of the green infrastructure (solar panels, wind turbines, electric transit, etc.) needed to avert a climate catastrophe should be manufactured in the Rust Belt, where millions of people already have manufacturing expertise and experience, and hundreds of underused or idled manufacturing facilities already exist. 
+
+WHEREAS Detroit DSA determined that this goal should be achieved through what it calls the “Great Lakes Authority” (GLA), a new, federal, regional planning agency (enacted through federal legislation under the umbrella of the “Green New Deal”) with the mandate to bring green union jobs, environmental justice, and sustainable economic development to the Great Lakes region. 
+
+WHEREAS the GLA would prioritize (1) creating green, prevailing-wage, union-backed jobs, including in green manufacturing, (2) creating millions of zero-carbon public housing units and weatherizing existing homes, and (3) restoring the region’s infrastructure, including its energy and water systems; its roads, bridges, and waterways; and its public transit, and be guided by the principles of (1) local control, (2) worker dignity, and (3) a just transition. 
+
+WHEREAS Detroit DSA has shared the idea of the GLA with great success in print and social media, as well as in person at labor events, in community forums and town halls, at the Midwest DSA Regional Convention, etc. 
+
+WHEREAS, in light of these efforts, DSA members from across the Rust Belt (including Detroit, Chicago, Milwaukee, Toledo, Flint, Cleveland, Columbus, Huron Valley, Cincinnati, and Pittsburgh) are now actively thinking through the idea of the GLA, what such a unifying demand could mean for our ecosocialist work, and organizing to make the GLA a reality.
+</details>
+
+<details>
+<summary>Action</summary>
+BE IT THEREFORE RESOLVED that the Democratic Socialists of America (DSA) endorse the cross-chapter campaign around the creation of the Great Lakes Authority, a regional-planning agency enacted through federal legislation under the umbrella of the “Green New Deal” with the mandate to bring green union jobs, environmental justice, and sustainable economic development to the Great Lakes region of the United States, consistent with DSA’s Guiding Principles of an Ecosocialist Green New Deal. 
+
+
+BE IT FURTHER RESOLVED that DSA shall assist those chapters involved in this campaign with reasonable material resources, including funding and staff time, to further the campaign.
+</details>
+
+### Commentary
+
+
+
+## 43. Move the Democratic Socialists of America's National Headquarters
+
+### Authors
+* Kevin M, Twin Cities DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS:
+
+New York City is expensive for renting office space, requiring expenses that could more efficiently be used to hire more organizers
+
+The location of the national headquarters necessarily impacts the character and behavior of the organization
+
+The DSA must be situated with the working class, rather than the bourgeois neighborhood of Manhattan's Financial District
+
+Socialism must be built outside the loci of capitalist political and economic power
+
+Socialism's greatest successes in the United States have occurred in rural areas
+
+</details>
+
+<details>
+<summary>Action</summary>
+BE IT RESOLVED
+
+When the Democratic Socialists of America's national office's lease ends, the DSA national headquarters shall be relocated to a city outside of the Northeast, Northern California, and Southern California megalopoles, in a metro area of less than one million people.
+
+</details>
+
+### Commentary
+
+
+
+## 44. YDSA Staff Review
+
+### Authors
+* Matthew W, Jacksonville DSA, YDSA CC, LSC
+* Nicholas D.S, Richmond DSA
+* Annie D.F, Boston DSA
+* Andrew D, Suffolk County DSA
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+Whereas, Young Democratic Socialists of America (YDSA) branches have been chronically understaffed, and
+
+Whereas, Article IX of the Democratic Socialists of America (DSA) Bylaws reserves hiring, assignment, and discharge of staff to the National Director, with final approval by the National Political Committee (NPC), and
+
+Whereas, YDSA chapters and DSA chapters are stronger when working together than independently of each other, and
+
+Whereas, the NPC presently has a Personnel Committee that is tasked with staff-related issues, and
+
+Whereas, DSA is party to a collective bargaining agreement with the Washington-Baltimore News Guild, which recognizes the News Guild as the exclusive representative of "all DSA employees, regardless of geographic location or worksite, who are regularly scheduled to work 15 hours or more per week, excluding supervisory, managerial and confidential employees as defined in the National Labor Relations Act (NLRA) and temporary employees working up to 3 months," and
+
+Whereas, no recommendation for staffing should be made without full participation of the staff union, and without meeting DSA’s obligation to bargain in good faith, and
+</details>
+
+<details>
+<summary>Action</summary>
+Therefore, be it resolved that DSA will conduct a review of organizational staffing:
+1. To be conducted by the Personnel Committee of the NPC, under the direction of the National Director
+2. To be conducted with representation afforded to the News Guild
+3. With special attention to equitable staffing coverage for YDSA
+4. With mandatory full and equitable participation of YDSA’s duly-elected leadership
+5. To be concluded by January 31 of 2020, and
+
+Therefore, be it resolved that the review will be conducted by the Personnel Committee of the NPC, under the direction of the National Director, and with opportunity afforded to the News Guild for representation, and
+
+Therefore, be it resolved that:
+1. The final report will include specific proposals to substantially increase staff support for YDSA
+2. The final report will determine whether it is desirable to include YDSA chapters within the responsibilities of regional organizers
+3. The final report will render a recommendation on needs for increased staffing, and shall not include an increase of the workload of organizers already working for DSA, and
+
+Therefore, be it resolved that all DSA chapters shall work to support the YDSA chapters in their territory while respecting the internal democracy and decision-making autonomy of those YDSA chapters, and
+
+Therefore, be it resolved that no recommendation or decision of the committee will supersede the collective bargaining agreement, and that DSA will meet its duty to bargain in good faith with the News Guild, and
+
+Therefore, be it resolved that no recommendation will include a reduction in force.
+</details>
+
+### Commentary
+
+
+
+## 45. Remove the A from DSA
+
+### Authors
+* Michael I.
+
+### Synopsis
+
+<details>
+<summary>Justification</summary>
+WHEREAS, The Democratic Socialists of America (DSA) rejects an international economic order sustained by systemic oppression, environmental degradation, colonialism and imperialism. 
+
+WHEREAS, Throughout its existence the so-called “United States of America” maintains its empire built with slave labor on land occupied or stolen from indigenous peoples. 
+
+WHEREAS, The “A” in “DSA” stands for “America” but refers to the “United States of America” (as opposed to “The Americas” or “North America”). The stated shared vision of the DSA on its own website (DSAUSA.org) is of a “humane international social order” ... “based on gender and racial equality” and “non-oppressive relationships”. 
+
+WHEREAS, If this organization is to stay true to that shared vision it should not contain the name of the world’s greatest genocidal oppressor.
+</details>
+
+<details>
+<summary>Action</summary>
+THEREFORE, DSA will start a process to remove or replace the “A” in the name of the organization. The organization shall proceed by: 
+
+1. Explicitly encouraging chapters to begin the process of changing its name on the local 
+level if there is stated desire within chapter membership.
+
+2. Encouraging all chapters to hold discussions on removing the “A” from their chapter name, whilst also acknowledging that such an act would be a mere statement of intention that will be reduced to a meaningless token gesture if not followed up with a firm commitment to join black, indigenous and oppressed peoples of the world in their struggle for liberation from the most violent institutions of the so-called “USA”. 
+
+3. Facilitating debate on the discussion forum and upcoming conferences on a 
+constitutional amendment to remove the “A” from “DSA” on the national level. 
+
+4. Using this process as a starting point towards the larger political projects of 
+decolonization, demilitarization, and de-occupation.
+
+</details>
+
+### Commentary
+
+
+
+## 1.
 
 ### Authors
 * 
@@ -775,7 +1716,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -795,7 +1737,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -815,7 +1758,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -835,7 +1779,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -855,7 +1800,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -875,7 +1821,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -895,7 +1842,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -915,7 +1863,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -935,7 +1884,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -955,7 +1905,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+
+## 1.
 
 ### Authors
 * 
@@ -975,7 +1926,8 @@ D. National HGO Committee
 ### Commentary
 
 
-## 1. 
+L
+## 1.
 
 ### Authors
 * 
